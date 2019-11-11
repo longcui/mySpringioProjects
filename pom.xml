@@ -11,6 +11,6 @@
 <!--    mvn archetype:generate -DgroupId=no.longtech  -DartifactId=springBootWithH2-->
 
 <modules>
-    <module>springBootWithH2</module>
+    <module>springBootExample</module>
 </modules>
 </project>
